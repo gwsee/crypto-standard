@@ -3,8 +3,8 @@
 
 package secp256k1
 
-import "C"
 import (
+	"C"
 	"github.com/gwsee/crypto-standard/asym/secp256k1/internal"
 	"io"
 	"math/big"
